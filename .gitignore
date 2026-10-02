@@ -1,0 +1,12 @@
+# Local Python environment and generated caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+# Local credentials
+.env
+.env.*
+!.env.example
